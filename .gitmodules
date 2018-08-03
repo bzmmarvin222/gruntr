@@ -1,3 +1,6 @@
 [submodule "gruntr-backend"]
 	path = gruntr-backend
 	url = https://github.com/bzmmarvin222/gruntr-backend
+[submodule "gruntr-client"]
+	path = gruntr-client
+	url = https://github.com/bzmmarvin222/gruntr-client
